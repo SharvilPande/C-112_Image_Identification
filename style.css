@@ -1,0 +1,79 @@
+body{
+    background: rgb(238, 118, 6)
+}
+
+.header_div{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(223, 208, 74);
+}
+
+.header_div img{
+    width: 100;
+}
+
+.main_div{
+    border: 10px black double;
+    padding: 10px;
+    margin-right: 15px;
+    margin-top: 35px;
+}
+
+.main_div label{
+   border: 3px ridge;
+   border-color: #261e92;
+   padding: 20px;
+   box-shadow: 5px 5px 18px;
+   width: 300px;
+}
+
+#camera, #result{
+  border: 3px #261e92 ridge;
+  width: 300px;
+  height: 320px;
+  box-shadow: 5px 5px 18px;
+}
+
+.main_div button{
+    width: 300px;
+    margin-top: 5px;
+    box-shadow: 5px 5px 18px #261e92;
+}
+
+#div_2{
+    margin-left: 765px;
+    margin-top: -470px;
+}
+
+.footer_div img{
+   width: 50px;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+    background-color: rgb(175, 33, 56);
+    width: 100%;
+}
+
+.footer_div h4{
+   background-color: rgb(211, 139, 151);
+   text-align: center;
+   box-shadow: 10px 10px 5px rgb(4, 94, 97);
+   border-radius: 10px;
+   padding: 5px;
+   margin-bottom: 0px;
+   width: 100%;
+   margin-top: 20px;
+   color: black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    background-color: rgb(5, 78, 5);
+    line-height: 3.9;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    font-family: serif;
+}
